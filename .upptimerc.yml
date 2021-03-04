@@ -6,8 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Linux-Shell-Scripting
     url: https://nileshsalunke09.github.io/Linux-Shell-Scripting/
-  - name: Demo-Site
+  - name: OpenSpecimen_Demo-Site
     url: https://demo.openspecimen.org/
+  - name: OpenSpecimen_Test-Site
+    url: https://test.openspecimen.org/
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
