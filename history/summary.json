@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 130,
+    "time": 133,
+    "timeDay": 137,
     "timeWeek": 143,
-    "timeMonth": 123,
-    "timeYear": 132,
+    "timeMonth": 124,
+    "timeYear": 133,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Demo-Site",
+    "url": "https://demo.openspecimen.org/",
+    "icon": "https://favicons.githubusercontent.com/demo.openspecimen.org",
+    "slug": "demo-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   }
 ]
