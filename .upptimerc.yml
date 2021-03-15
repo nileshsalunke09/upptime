@@ -27,7 +27,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 NOTIFICATION_EMAIL: true
-NOTIFICATION_EMAIL_FROM: uptime@notification.com
+NOTIFICATION_EMAIL_FROM: nilesh.salunke09@gmail.com
 NOTIFICATION_EMAIL_TO: nilesh@krishagni.com
 
 
