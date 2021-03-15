@@ -17,18 +17,16 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime by Nilesh
   introTitle: "**Upptime**."
-  introMessage: 
+  introMessage: Below is the Test, Demo website status
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
-NOTIFICATION_EMAIL: true
-NOTIFICATION_EMAIL_FROM: nilesh.salunke09@gmail.com
-NOTIFICATION_EMAIL_TO: nilesh@krishagni.com
+
 
 
 # Upptime also supports notifications, assigning issues, and more
