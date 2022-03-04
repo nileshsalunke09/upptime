@@ -14,7 +14,7 @@
     "timeDay": 23,
     "timeWeek": 74,
     "timeMonth": 73,
-    "timeYear": 86,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://demo.openspecimen.org/",
     "icon": "https://favicons.githubusercontent.com/demo.openspecimen.org",
     "slug": "open-specimen-demo-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 357,
-    "timeWeek": 701,
-    "timeMonth": 397,
-    "timeYear": 282,
+    "timeDay": 311,
+    "timeWeek": 665,
+    "timeMonth": 394,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
