@@ -40,17 +40,17 @@
     "url": "https://test.openspecimen.org/",
     "icon": "https://favicons.githubusercontent.com/test.openspecimen.org",
     "slug": "open-specimen-test-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 141,
-    "timeWeek": 236,
-    "timeMonth": 232,
-    "timeYear": 278,
+    "timeDay": 218,
+    "timeWeek": 245,
+    "timeMonth": 235,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
